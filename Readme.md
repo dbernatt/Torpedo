@@ -1,7 +1,7 @@
 # Multiplayer Torpedo Game in Java
 
-[]!(images/Torpedo_Gameplay.png)
-[]!(images/Torpedo_Menu.png)
+![Gameplay](images/Torpedo_Gameplay.png)
+![Menu](images/Torpedo_Menu.png)
 
 ## Description
 
