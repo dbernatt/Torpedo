@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane prefHeight="600.0" prefWidth="800.0" style="-fx-background-color: B;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" >
+   <children>
+      <Label alignment="CENTER" layoutX="29.0" layoutY="28.0" prefHeight="545.0" prefWidth="743.0" style="-fx-background-color: DarkTurquoise;" text="Waiting for opponent..." textFill="#3604eb" AnchorPane.leftAnchor="29.0">
+         <font>
+            <Font name="System Bold" size="32.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
